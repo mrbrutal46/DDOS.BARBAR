@@ -4,7 +4,7 @@ $apt update && apt upgrade
 $pkg install git && pkg install python
 
 
-$git clone https://github.com/mrpaktoto/DDOS.BARBAR
+$git clone https://github.com/mrbrutal46/DDOS.BARBAR
 
 $ cd DDOS.BARBAR
 
